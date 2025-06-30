@@ -67,7 +67,7 @@ This backend allows you to send your PC's real-time CPU (via LibreHardwareMonito
 
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 - [Flipper Zero Official Site](https://flipperzero.one/)
-- [Flipper Temp Monitor App (repo)](link_to_your_flipper_app_repo)
+- [Flipper Temp Monitor App (repo)](https://github.com/TheXmyst/flipper-Temp-monitor-app)
 
 ## Author
 
