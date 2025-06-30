@@ -13,7 +13,7 @@ This backend allows you to send your PC's real-time CPU (via LibreHardwareMonito
 
 - [Rust toolchain](https://www.rust-lang.org/tools/install)
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases)  
-  (must be running in server mode: `LibreHardwareMonitor.exe --remote`)
+  (must be running in server mode: `LibreHardwareMonitor.exe --remote`Alternatively, open LibreHardwareMonitor, enable "Minimize to tray", and activate "Remote Web Server" in the Options menu. )
 - NVIDIA GPU (for GPU temperature)
 - Flipper Zero with the Temp Monitor app installed
 
